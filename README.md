@@ -38,6 +38,8 @@ The project workflow consists of the following steps:
 5.  **Analysis and Interpretation:**
     *   Identified top-performing batsmen and bowlers based on various KPIs.
     *   Extracted insights related to performance drivers and team-based trends.
+6. **DASHBOARD**
+    *https://github.com/Kishore20021103/ICC-men-s-T20-Worldcup-dashboard/blob/main/SS.png
 
 ## Findings
 
