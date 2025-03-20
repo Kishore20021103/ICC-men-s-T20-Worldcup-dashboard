@@ -29,8 +29,11 @@ The project workflow consists of the following steps:
 
 4.  **KPI Calculation:**
     *   Calculated the following key performance indicators (KPIs):
-        *   **Batting:** Batting Average, Strike Rate
-        *   **Bowling:** Economy Rate, Bowling Average, Bowling Strike Rate
+    *   **Batting Average:** Total runs scored divided by the number of outs
+    *   **Strike Rate:** (Total runs scored / Total balls faced) * 100.
+    *   **Economy Rate:** Total runs conceded per over bowled.
+    *   **Bowling Average:** Total runs conceded divided by the number of wickets taken.
+    *   **Bowling Strike Rate:** Number of balls bowled per wicket taken.
 
 5.  **Analysis and Interpretation:**
     *   Identified top-performing batsmen and bowlers based on various KPIs.
