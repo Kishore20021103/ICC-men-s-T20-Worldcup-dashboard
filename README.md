@@ -38,7 +38,7 @@ The project workflow consists of the following steps:
 5.  **Analysis and Interpretation:**
     *   Identified top-performing batsmen and bowlers based on various KPIs.
     *   Extracted insights related to performance drivers and team-based trends.
-6. **DASHBOARD**
+6. **Dashboard**
     ![SS](https://github.com/user-attachments/assets/d9514522-84bc-4d04-9e3c-6cf48206d0f7)
 
 
